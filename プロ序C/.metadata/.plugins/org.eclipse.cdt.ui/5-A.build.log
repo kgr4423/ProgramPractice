@@ -1,0 +1,15 @@
+21:00:10 **** Incremental Build of configuration Debug for project 5-A ****
+make all 
+Building file: ../Sorces/pro5.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Sorces/pro5.d" -MT"Sorces/pro5.o" -o "Sorces/pro5.o" "../Sorces/pro5.c"
+Finished building: ../Sorces/pro5.c
+ 
+Building target: 5-A.exe
+Invoking: Cygwin C Linker
+gcc  -o "5-A.exe" ./Sorces/pro5.o   
+Finished building target: 5-A.exe
+ 
+
+21:00:11 Build Finished. 0 errors, 0 warnings. (took 728ms)
+

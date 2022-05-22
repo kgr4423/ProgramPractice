@@ -1,0 +1,15 @@
+21:16:44 **** Build of configuration Debug for project 7-A ****
+make all 
+Building file: ../Soeces/pro7.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Soeces/pro7.d" -MT"Soeces/pro7.o" -o "Soeces/pro7.o" "../Soeces/pro7.c"
+Finished building: ../Soeces/pro7.c
+ 
+Building target: 7-A.exe
+Invoking: Cygwin C Linker
+gcc  -o "7-A.exe" ./Soeces/pro7.o   
+Finished building target: 7-A.exe
+ 
+
+21:16:44 Build Finished. 0 errors, 0 warnings. (took 720ms)
+

@@ -1,0 +1,15 @@
+17:36:07 **** Incremental Build of configuration Debug for project kadai4-2a ****
+make all 
+Building file: ../Sorces/kadai4-2a.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Sorces/kadai4-2a.d" -MT"Sorces/kadai4-2a.o" -o "Sorces/kadai4-2a.o" "../Sorces/kadai4-2a.c"
+Finished building: ../Sorces/kadai4-2a.c
+ 
+Building target: kadai4-2a.exe
+Invoking: Cygwin C Linker
+gcc  -o "kadai4-2a.exe" ./Sorces/kadai4-2a.o   
+Finished building target: kadai4-2a.exe
+ 
+
+17:36:07 Build Finished. 0 errors, 0 warnings. (took 740ms)
+

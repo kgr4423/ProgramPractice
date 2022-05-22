@@ -1,0 +1,18 @@
+09:07:50 **** Incremental Build of configuration Debug for project 2-A ****
+make all 
+Building file: ../sorces/pro2a.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"sorces/pro2a.d" -MT"sorces/pro2a.o" -o "sorces/pro2a.o" "../sorces/pro2a.c"
+Finished building: ../sorces/pro2a.c
+ 
+Building target: 2-A.exe
+Invoking: Cygwin C Linker
+gcc  -o "2-A.exe" ./sorces/pro2a.o ./sorces/pro2a2.o   
+/usr/lib/gcc/x86_64-pc-cygwin/9.3.0/../../../../x86_64-pc-cygwin/bin/ld: ./sorces/pro2a2.o: in function `main':
+/cygdrive/c/Users/ä¹?æœ¨ç”°ã€?ãƒ?ã‚«ãƒ«/eclipse-workspace/2-A/Debug/../sorces/pro2a2.c:4: multiple definition of `main'; ./sorces/pro2a.o:/cygdrive/c/Users/ä¹?æœ¨ç”°ã€?ãƒ?ã‚«ãƒ«/eclipse-workspace/2-A/Debug/../sorces/pro2a.c:4: first defined here
+collect2: error: ld returned 1 exit status
+make: *** [makefile:32: 2-A.exe] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+09:07:51 Build Failed. 3 errors, 0 warnings. (took 1s.223ms)
+

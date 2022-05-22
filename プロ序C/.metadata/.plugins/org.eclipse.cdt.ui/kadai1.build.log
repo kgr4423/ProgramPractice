@@ -1,0 +1,6 @@
+04:55:37 **** Incremental Build of configuration Debug for project kadai1 ****
+make all 
+make: Nothing to be done for 'all'.
+
+04:55:37 Build Finished. 0 errors, 0 warnings. (took 278ms)
+

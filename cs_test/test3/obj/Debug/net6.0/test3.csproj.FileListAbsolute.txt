@@ -1,0 +1,15 @@
+C:\Users\KukitaHikaru\Documents\cs_code\test\test3\bin\Debug\net6.0\test3.exe
+C:\Users\KukitaHikaru\Documents\cs_code\test\test3\bin\Debug\net6.0\test3.deps.json
+C:\Users\KukitaHikaru\Documents\cs_code\test\test3\bin\Debug\net6.0\test3.runtimeconfig.json
+C:\Users\KukitaHikaru\Documents\cs_code\test\test3\bin\Debug\net6.0\test3.dll
+C:\Users\KukitaHikaru\Documents\cs_code\test\test3\bin\Debug\net6.0\ref\test3.dll
+C:\Users\KukitaHikaru\Documents\cs_code\test\test3\bin\Debug\net6.0\test3.pdb
+C:\Users\KukitaHikaru\Documents\cs_code\test\test3\obj\Debug\net6.0\test3.csproj.AssemblyReference.cache
+C:\Users\KukitaHikaru\Documents\cs_code\test\test3\obj\Debug\net6.0\test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KukitaHikaru\Documents\cs_code\test\test3\obj\Debug\net6.0\test3.AssemblyInfoInputs.cache
+C:\Users\KukitaHikaru\Documents\cs_code\test\test3\obj\Debug\net6.0\test3.AssemblyInfo.cs
+C:\Users\KukitaHikaru\Documents\cs_code\test\test3\obj\Debug\net6.0\test3.csproj.CoreCompileInputs.cache
+C:\Users\KukitaHikaru\Documents\cs_code\test\test3\obj\Debug\net6.0\test3.dll
+C:\Users\KukitaHikaru\Documents\cs_code\test\test3\obj\Debug\net6.0\ref\test3.dll
+C:\Users\KukitaHikaru\Documents\cs_code\test\test3\obj\Debug\net6.0\test3.pdb
+C:\Users\KukitaHikaru\Documents\cs_code\test\test3\obj\Debug\net6.0\test3.genruntimeconfig.cache

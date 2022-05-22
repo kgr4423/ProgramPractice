@@ -1,0 +1,109 @@
+13:19:51 **** Incremental Build of configuration Debug for project D1 ****
+make all 
+Building file: ../Sorces/aa.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Sorces/aa.d" -MT"Sorces/aa.o" -o "Sorces/aa.o" "../Sorces/aa.c"
+Finished building: ../Sorces/aa.c
+ 
+Building target: D1.exe
+Invoking: Cygwin C Linker
+gcc  -o "D1.exe" ./Sorces/aa.o   
+Finished building target: D1.exe
+ 
+13:20:10 **** Build of configuration Debug for project 8-A ****
+make all 
+Building file: ../Sorces/pro8.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Sorces/pro8.d" -MT"Sorces/pro8.o" -o "Sorces/pro8.o" "../Sorces/pro8.c"
+../Sorces/pro8.c: In function 'main':
+../Sorces/pro8.c:36:8: warning: implicit declaration of function 'read_word' [-Wimplicit-function-declaration]
+   36 |  while(read_word(buf)){
+      |        ^~~~~~~~~
+In file included from ../Sorces/pro8.c:3:
+../Sorces/pro8.c:37:17: warning: array subscript has type 'char' [-Wchar-subscripts]
+   37 |   if(isdigit(buf[0])){
+      |              ~~~^~~
+../Sorces/pro8.c:38:26: warning: implicit declaration of function 'error'; did you mean 'perror'? [-Wimplicit-function-declaration]
+   38 |    if(push(atoi(buf))==0)error("stack full",NULL);
+      |                          ^~~~~
+      |                          perror
+../Sorces/pro8.c: At top level:
+../Sorces/pro8.c:78:6: warning: conflicting types for 'error'
+   78 | void error(char *f,char *s){
+      |      ^~~~~
+../Sorces/pro8.c:38:26: note: previous implicit declaration of 'error' was here
+   38 |    if(push(atoi(buf))==0)error("stack full",NULL);
+      |                          ^~~~~
+Finished building: ../Sorces/pro8.c
+ 
+Building target: 8-A.exe
+Invoking: Cygwin C Linker
+gcc  -o "8-A.exe" ./Sorces/pro8.o   
+Finished building target: 8-A.exe
+ 
+13:20:19 **** Incremental Build of configuration Debug for project D1 ****
+make all 
+make: Nothing to be done for 'all'.
+13:20:49 **** Incremental Build of configuration Debug for project D1 ****
+make all 
+make: Nothing to be done for 'all'.
+13:21:31 **** Incremental Build of configuration Debug for project D1 ****
+make all 
+make: Nothing to be done for 'all'.
+13:22:21 **** Incremental Build of configuration Debug for project D1 ****
+make all 
+make: Nothing to be done for 'all'.
+13:26:42 **** Incremental Build of configuration Debug for project D1 ****
+make all 
+Building file: ../Sorces/aa.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Sorces/aa.d" -MT"Sorces/aa.o" -o "Sorces/aa.o" "../Sorces/aa.c"
+Finished building: ../Sorces/aa.c
+ 
+Building target: D1.exe
+Invoking: Cygwin C Linker
+gcc  -o "D1.exe" ./Sorces/aa.o   
+Finished building target: D1.exe
+ 
+13:27:03 **** Incremental Build of configuration Debug for project D1 ****
+make all 
+Building file: ../Sorces/aa.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Sorces/aa.d" -MT"Sorces/aa.o" -o "Sorces/aa.o" "../Sorces/aa.c"
+Finished building: ../Sorces/aa.c
+ 
+Building target: D1.exe
+Invoking: Cygwin C Linker
+gcc  -o "D1.exe" ./Sorces/aa.o   
+Finished building target: D1.exe
+ 
+13:27:04 **** Incremental Build of configuration Debug for project D1 ****
+make all 
+make: Nothing to be done for 'all'.
+13:28:00 **** Incremental Build of configuration Debug for project D1 ****
+make all 
+Building file: ../Sorces/aa.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Sorces/aa.d" -MT"Sorces/aa.o" -o "Sorces/aa.o" "../Sorces/aa.c"
+Finished building: ../Sorces/aa.c
+ 
+Building target: D1.exe
+Invoking: Cygwin C Linker
+gcc  -o "D1.exe" ./Sorces/aa.o   
+Finished building target: D1.exe
+ 
+13:28:07 **** Incremental Build of configuration Debug for project D1 ****
+make all 
+make: Nothing to be done for 'all'.
+13:28:20 **** Incremental Build of configuration Debug for project D1 ****
+make all 
+Building file: ../Sorces/aa.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Sorces/aa.d" -MT"Sorces/aa.o" -o "Sorces/aa.o" "../Sorces/aa.c"
+Finished building: ../Sorces/aa.c
+ 
+Building target: D1.exe
+Invoking: Cygwin C Linker
+gcc  -o "D1.exe" ./Sorces/aa.o   
+Finished building target: D1.exe
+ 

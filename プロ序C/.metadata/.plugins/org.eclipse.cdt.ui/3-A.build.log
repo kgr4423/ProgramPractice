@@ -1,0 +1,19 @@
+22:35:31 **** Build of configuration Debug for project 3-A ****
+make all 
+Building file: ../Sorces/pro3.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Sorces/pro3.d" -MT"Sorces/pro3.o" -o "Sorces/pro3.o" "../Sorces/pro3.c"
+../Sorces/pro3.c: In function 'main':
+../Sorces/pro3.c:25:9: warning: implicit declaration of function 'get_word' [-Wimplicit-function-declaration]
+   25 |   while(get_word(fp,buf)!=0){
+      |         ^~~~~~~~
+Finished building: ../Sorces/pro3.c
+ 
+Building target: 3-A.exe
+Invoking: Cygwin C Linker
+gcc  -o "3-A.exe" ./Sorces/pro3.o   
+Finished building target: 3-A.exe
+ 
+
+22:35:32 Build Finished. 0 errors, 1 warnings. (took 725ms)
+

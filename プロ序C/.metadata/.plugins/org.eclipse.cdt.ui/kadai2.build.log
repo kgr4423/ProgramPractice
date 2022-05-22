@@ -1,0 +1,15 @@
+04:58:16 **** Build of configuration Debug for project kadai2 ****
+make all 
+Building file: ../Sorces/kadai2.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Sorces/kadai2.d" -MT"Sorces/kadai2.o" -o "Sorces/kadai2.o" "../Sorces/kadai2.c"
+Finished building: ../Sorces/kadai2.c
+ 
+Building target: kadai2.exe
+Invoking: Cygwin C Linker
+gcc  -o "kadai2.exe" ./Sorces/kadai2.o   
+Finished building target: kadai2.exe
+ 
+
+04:58:17 Build Finished. 0 errors, 0 warnings. (took 1s.387ms)
+

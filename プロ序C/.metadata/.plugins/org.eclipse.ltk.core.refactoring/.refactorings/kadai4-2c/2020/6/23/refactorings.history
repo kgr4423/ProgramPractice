@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;kadai4-2c/Sorces/kadai4-2.c&apos; to &apos;kadai4-2c.c&apos;" description="Rename resource &apos;kadai4-2.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Sorces/kadai4-2.c" name="kadai4-2c.c" stamp="1591315526609" updateReferences="true"/>
+</session>

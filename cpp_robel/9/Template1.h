@@ -1,0 +1,10 @@
+#ifndef TEMPLATE1_H_20210824_1240_IHGOEJO_INCLUDE_
+#define TEMPLATE1_H_20210824_1240_IHGOEJO_INCLUDE_
+
+template<typename TYPE>
+    TYPE Abs(TYPE a)
+{
+    return a<0 ? -a : a;
+}
+
+#endif // #ifndef TEMPLATE1_H_20210824_1240_IHGOEJO_INCLUDE_
