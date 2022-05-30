@@ -67,4 +67,5 @@ class HelloRuby
     puts("Hello! Ruby!")
   end
 end
-HelloRuby.greeting  #=> Hello! Ruby!
+HelloRuby.greeting  #=> Hello! Ruby!!
+
