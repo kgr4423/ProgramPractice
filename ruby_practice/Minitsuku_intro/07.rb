@@ -61,3 +61,10 @@ p john.name  #=> John
 bob = Person.new
 bob.name = "Bob"
 p bob.name   #=> Bob
+
+class HelloRuby
+  def HelloRuby.greeting
+    puts("Hello! Ruby!")
+  end
+end
+HelloRuby.greeting  #=> Hello! Ruby!
